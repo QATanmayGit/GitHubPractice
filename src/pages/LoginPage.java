@@ -10,7 +10,7 @@ public class LoginPage {
 		String pswd = "admin";
 		
 		System.out.println("Logged in.....");
-
+		System.out.println("Logged in...trhrthrthr..");
 	}
 
 }
